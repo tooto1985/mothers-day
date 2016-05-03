@@ -1,7 +1,7 @@
 {
   "name": "mothers-day",
-  "version": "0.0.1",
-  "description": "Re-maps a number from one range to another.",
+  "version": "0.0.2",
+  "description": "Get date in any year for Mother's Day.",
   "main": "index.js",
   "repository": {
     "type": "git",
